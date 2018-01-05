@@ -1,0 +1,40 @@
+
+카페에서 커피를 마시려고 했는데 교통카드가 캐시비라 안됨ㅠㅜ 잠시 편의점을 다녀와서 t머니 카드를 구매함.
+
+이클립스 설치후 마켓에서 svn설치/ 계정 만들어달라고 신청함.
+
+svn 설치 및 설정 참고 문서) (개발환경설정)_mGHS_Web_API_v.0.9~~,개발환경설정_MGHS-API.v.1.1.20170512~~
+
+점심 : 버디(이호석 대리)님이 사주심 (뭐먹었지...?,맛있었음)
+
+점심 빨리 먹고 talk: it 얘기도 하고 일반적인 투자 얘기도 하고 나름 재미있었다.
+
+문서와 다른 부분) Svn Team provider 설치-> 마켓에서 설정 후 kit설치는
+Preferences -> SVN -> SVN Connectoer 에서 설정해서 kit 설치해야한다.
+
+아파치 설치) 설치가 안되서 권한 상승 cmd에서 열어서 설치함
+
+이클립스와의 연동 ) eclipse와 tomcat 연동 중 prefernece-server-runtime environments-add가 없음
+
+JST Server Adapters를 설치해야한다. 
+ 1. Help -> install New Software
+ 2. work with에서  '나'는 http://download.eclipse.org/releases/oxygen 으로 선택
+ 3. "Web,XML,and Java EE Develpment"를 펼치고 JST Server Adapters,JST server Adapters Extentions를 찾아서 설치!
+
+서버 추가하기)
+ Preferences -> Server -> Runtime Environments -> add -> 설치한 버젼의 apache tomcat
+ Window -> Show View -> other.. -> Server
+ No server are available. Click this link to create a new server... 클릭 
+ 서버를 추가
+
+
+
+16:00에 데이터 분석 업무 인덕션 미팅을 하기로 함 (김준호 과장님과)
+AI와 데이터 분석 하는것에 대해 얘기함
+데이터 분석을 위해 사용하는 툴 -> GRAPH DB : neo4j 사용= 직관적으로 데이터를 확인할 수 있다.
+redmine.homplusnet.co.kr/issues/17663 에서 확인하면서 공부하기
+
+SVN 계정 옴
+ id : daiana.hong
+ pw : daiana.hong!@#$
+
