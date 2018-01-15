@@ -1,0 +1,27 @@
+svn을 로컬로 접속하는 일을 계속 해봤다. 잘 안됨. 버디도 뭐가 문제인지 모르겠다고 함
+방화벽쪽에 연락도 해봤는데 결국 그 문제가 아닌듯하다.
+
+점심 : 법카로 긁음. 쌀국수를 먹으러감 포베이였나? 맛 괜춘, M사이즈로 먹었는데 다먹으니까 배부르더라. S는 조금 아쉬웠어..
+
+오늘은 부서이동날이라 자리정하기 티타임이 있음(일단 전체회의임)
+15:00 희망사항을 받아서 작성한 시안1과 사다리타기로 한 시안2 중 고민함
+투표로 결정함. 결국 시안1이 됨
+
+16:00 갑작스럽게 분석 vtf팀 회의를 끼게 됨
+DB와 AI쪽이라 재미있을 것 같다
+1시간 30분동안 회의를 열심히 함. 반은 알아듣고 반은 못알아들음. 모르는 용어가 매우 많다. 공부 열심히 해야지
+
+nosql
+
+graph DB 와 Document DB
+구조는
+
+                 -> GHS Front Layer APP API          Apache 2.4 & Tomcat 7.0
+User -> internet -> GHS 모바일 웹               =>   restful API
+                 -> GHS PC 웹                            |
+                                                         v
+                            GHS DB                    Document DB
+
+구글에 SK planet bigdata or chitectane
+
+dbms ranking 보기
